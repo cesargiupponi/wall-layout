@@ -20,7 +20,6 @@ A sample iOS app demonstrating a custom `UICollectionViewFlowLayout` to create a
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -135,11 +134,3 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 3. Commit your changes (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-With this `README.md`, other developers will have a clear understanding of how to set up, use, and extend your app. Feel free to modify any sections based on your actual project setup.
